@@ -84,12 +84,15 @@ margin-left: 50px;
 }
 
 .popular-Collection{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
     margin-top: 140px;
     margin-left: 165px;
     margin-right: 165px;
     width: 1047px;
     height: 1662px;
-    display: grid;
+    
+
     
     
     
