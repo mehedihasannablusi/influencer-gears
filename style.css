@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 90px;
+    align-items: center;
+}
+.logo{
+    margin-left: 120px;
+    font-size: 24px;
+}
+.icons{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    font-size: 16px;
+    margin-right: 100px;
+    gap: 30px;
+
+}
+
+/* nav-style-end */
+
+.top-section{
+    display: flex;
+    margin-top: 90px;
+    align-items: center;
+
+}
+
+.top-info{
+    margin-left: 120px;
+    gap: 20px;
+
+}
+
+
+.top-heading{
+    font-size: 52px;
+}
+
+.discription{
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+.top-button{
+    margin-top: 20px;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    background-color:  #E02C6D;
+    border: none;
+    padding: 24px;
+    border-radius: 40px;
+   
+    
+}
+.camera{
+margin-right: 140px;
+margin-left: 50px;
+}
+
+/* top-section-end */
+
+.all-logo{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 165px;
+    margin-right: 165px;
+    gap: 60px;
+    align-items: center;
+    justify-content: center;
+}
+/* .top-section-end */
+
+.popular-heading{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.popular-Collection{
+    margin-top: 140px;
+    margin-left: 165px;
+    margin-right: 165px;
+    width: 1047px;
+    height: 1662px;
+    display: grid;
+    
+    
+    
+}
+.icons2{
+   
+    display: flex;
+    margin-top: 10px;
+    gap: 5px;
+}
+.icon img{
+    
+    height: 20px;
+    width: 20px;
+}
+.collection-heading{
+    font-size: 28px;
+    margin-top: 10px;
+}
+
+.price{
+    margin-top: 10px;
+    font-size: 24px;
+}
+
+.collection-discription{
+    margin-top: 10px;
+    font-size: 14px;
+}
